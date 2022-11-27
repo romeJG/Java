@@ -1,0 +1,3 @@
+123,sdsdsdsds,eeee,Female,3333,justine@gnail.com,Business,Head of Faculty,22,14,575.0,172.5,287.5,6785.0
+222,www,eee,Female,2323,jsutine@guillermo.com,Computing,Coordinator,3,0,1200,120.0,36.0,60.0,1416.0
+201810083,justine,guillermo,Male,093248351,justin@guillermo.com,Business,Head of Faculty,2,0,1200,120.0,36.0,60.0,1416.0
